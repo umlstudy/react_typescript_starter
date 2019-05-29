@@ -1,8 +1,10 @@
 {
-  "name": "velopert.com.react.study",
+  "name": "react_typescript_starter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "Promise": "^1.0.5",
+    "fetch": "^1.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts-ts": "3.1.0"
